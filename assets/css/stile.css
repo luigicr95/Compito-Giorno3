@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  height: 100vh;
+  width: 100vw;
+}
+
+header {
+  background-color: #00ccff;
+  height: 50vh;
+  width: 100vw;
+  font-size: 50px;
+  line-height: 100px;
+}
+
+.maintitle {
+  color: white;
+  text-transform: uppercase;
+}
+.title2 {
+  color: #00ccff;
+  background-color: white;
+}
+.title3 {
+  font-variant: small-caps;
+}
+
+.azuretext {
+  color: #00ccff;
+  font-size: 35px;
+  text-transform: uppercase;
+  line-height: 100px;
+}
+
+.semibold {
+  font-weight: bold;
+  line-height: 50px;
+}
+
+.bold {
+  font-weight: bolder;
+  line-height: 50px;
+}
+
+.shadow {
+  background-color: rgb(165, 164, 164);
+  border-radius: 50px;
+}
+
+/* FOOTER */
